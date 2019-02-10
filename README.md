@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width">
   <title>jsbin</title>
   </head><strong>Shrimp spaghetti</strong>
-  <ol>Ingredienst</ol>
+  <ol>Ingredients</ol>
   <ol><li>12oz spaghetti<li>1/4 cup extra-virgin olive oil<li>2 gloves of garlic
     <ul>-thinly slice</ul><li>1/2 lbs fresh aspragus</li><ul>-medium thicknes</ul><li>1/4 tsp crushed red pepper<li>Salt and ground black pepper to taste<li> 1 lb large raw shrimp, peeled and deveined<li>1/3 cup pasta cooking liquid<li>1 tbsp chopped fresh parsley, for garnishing<li>¼ cup parmesan cheese, grated
     </li>
